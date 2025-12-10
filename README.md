@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://images.squarespace-cdn.com/content/v1/6137845ccfa8877e18491837/1631129351881-PT2IH9F261NXHIZ7W9U4/sean-lewis_chillhop_sugiwa_800px-optimized.gif" align="center" style="width: 100%" />
 </div>  
   
 
