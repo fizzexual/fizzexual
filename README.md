@@ -111,6 +111,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/fizzexual/fizzexual/blob/main/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/fizzexual/fizzexual/refs/heads/main/snake.svg" alt="Snake animation" />
 
 ###
