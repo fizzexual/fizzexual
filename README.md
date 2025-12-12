@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Stiliyan(Fizz) and I'm a 19yo student from Dobrich</h2>
+<h2 align="center">Hi 👋! My name is Stiliyan(Fizz) and I'm a 19 yo student from Dobrich</h2>
 
 ###
 
