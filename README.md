@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on [Edvance](https://myedvance.com/)
 - 🔭 I’m currently working on [LUAing](https://luaing.com/)
 - 🔭 I’m currently working on [ManaLegends](https://discord.gg/qsSXYKRXZc)
+- 🔭 I’m currently working on [Click 1 million cookies](https://www.roblox.com/games/129639974953249/Untitled-Game)
 - 🌱 I’m currently learning **React, TypeScript**
 - 💬 Master at **Skript**
 - 📫 How to reach me **fizzexual@gmail.com**
