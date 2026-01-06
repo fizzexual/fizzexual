@@ -1,6 +1,12 @@
-<a href="https://google.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-</a>
+<div align="center">
+  <a href="https://google.com" target="_blank">
+    <img src="https://store.fastly.steamstatic.com/public/shared/images/responsive/steam_share_image.jpg" width="49%" />
+  </a>
+  <a href="https://google.com" target="_blank">
+    <img src="https://store.fastly.steamstatic.com/public/shared/images/responsive/steam_share_image.jpg" width="49%" />
+  </a>
+</div>
+
 
 <h1 align="center">Hi, I'm Stiliyan</h1>
 <h3 align="center">Game content creator. Web developer.</h3>
