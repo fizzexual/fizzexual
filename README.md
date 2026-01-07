@@ -3,12 +3,14 @@
 <h3 align="center">A passionate game content creator and web developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fizzexual&label=Profile%20views&color=0e75b6&style=flat" alt="fizzexual" /> </p>
 
+# Work
 - 🔭 I’m currently working on [Edvance](https://myedvance.com/)
 - 🔭 I’m currently working on [LUAing](https://luaing.com/)
-- 🔭 I’m currently working on [ManaLegends](https://discord.gg/qsSXYKRXZc)
-- 🔭 I’m currently working on [Click 1 million cookies](https://www.roblox.com/games/129639974953249/Untitled-Game)
+- 🍕 Currenly working as a developer for [NoLifeSquad](https://discord.gg/m5dMBMykdE)
 - 🌱 I’m currently learning **React, TypeScript**
 - 💬 Master at **Skript**
+
+# Contact
 - 📫 How to reach me **fizzexual@gmail.com**
 - 👨‍💻 All of my projects are available at **https://binaryesc.com**
 
