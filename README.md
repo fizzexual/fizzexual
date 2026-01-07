@@ -78,7 +78,7 @@ Here is the edited version. Only your selected stack. Same style, same image lin
 
 
 
-<a href="https://github.com/walidbosso">
+<a href="https://github.com/fizzexual">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 </a>
 
@@ -88,9 +88,9 @@ Here is the edited version. Only your selected stack. Same style, same image lin
 
 
 <h3 align="center">
- <a href="https://github.com/walidbosso">
+ <a href="https://github.com/fizzexual">
 <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
-    </a> <a href="https://github.com/walidbosso">
+    </a> <a href="https://github.com/fizzexual">
   <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
    </a> 【﻿Ｓｔａｔｓ】 
 
@@ -98,7 +98,7 @@ Here is the edited version. Only your selected stack. Same style, same image lin
  
 <p align="center">
  <br/>
-<a href="https://github.com/walidbosso"><img align="center" width ="%" src="https://img.shields.io/github/followers/walidbosso?logo=github&logoColor=41c350&labelColor=01102d&color=blue&style=for-the-badge"></a>
+<a href="https://github.com/fizzexual"><img align="center" width ="%" src="https://img.shields.io/github/followers/fizzexual?logo=github&logoColor=41c350&labelColor=01102d&color=blue&style=for-the-badge"></a>
 
 
 
