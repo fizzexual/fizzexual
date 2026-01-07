@@ -11,14 +11,6 @@
 
 <br>
 
-<div align="center">
-  <a href="https://binaryesc.com" target="_blank">
-    <img src="https://store.fastly.steamstatic.com/public/shared/images/responsive/steam_share_image.jpg" width="100%" />
-  </a>
-</div>
-
-<br>
-
 <h2 align="center">Active Projects</h2>
 
 <div align="center">
