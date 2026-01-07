@@ -78,7 +78,7 @@ Here is the edited version. Only your selected stack. Same style, same image lin
 
 
 
-<a href="https://github.com/fizzexual">
+<a href="https://github.com/walidbosso">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 </a>
 
@@ -88,9 +88,9 @@ Here is the edited version. Only your selected stack. Same style, same image lin
 
 
 <h3 align="center">
- <a href="https://github.com/fizzexual">
+ <a href="https://github.com/walidbosso">
 <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
-    </a> <a href="https://github.com/fizzexual">
+    </a> <a href="https://github.com/walidbosso">
   <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
    </a> 【﻿Ｓｔａｔｓ】 
 
@@ -98,35 +98,15 @@ Here is the edited version. Only your selected stack. Same style, same image lin
  
 <p align="center">
  <br/>
-<a href="https://github.com/fizzexual"><img align="center" width ="%" src="https://img.shields.io/github/followers/fizzexual?logo=github&logoColor=41c350&labelColor=01102d&color=blue&style=for-the-badge"></a>
+<a href="https://github.com/walidbosso"><img align="center" width ="%" src="https://img.shields.io/github/followers/walidbosso?logo=github&logoColor=41c350&labelColor=01102d&color=blue&style=for-the-badge"></a>
 
 
 
 <p align="center"> 
 <a href="https://user-badge.committers.top/morocco/walidbosso"> 
-<img align="center" src="https://aktive.kerolloz.dev/morocco/walidbosso?label=%F0%9F%92%BB%20Top%20Commiters%20In%20Morocco&labelColor=01102d&rnkPrefix=Rank%20&color=6eb9f2&style=for-the-badge" width="" />  
+<img align="center" src="https://aktive.kerolloz.dev/bulgaria/fizzexual?label=%F0%9F%92%BB%20Top%20Commiters%20In%20Bulgaria&labelColor=01102d&rnkPrefix=Rank%20&color=6eb9f2&style=for-the-badge" width="" />  
  
-</a></p >
-
-<p align="center"> 
-
-<a href="https://youtube.com/shorts/HWNQxME4r5E?feature=share"> 
-<!--=  <img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwalidbosso%2Fhit-counter&count_bg=%6EB9F2&title_bg=%01102D&icon=workplace.svg&icon_color=%41C350&title=Profile+Views&edge_flat=true" width="">     -->
- <img align="center" src="https://img.shields.io/badge/%20%20Press%20to%20watch%20my%202023-%20Github%20unwrapped%20-41c350.svg?logo=github&logoColor=41c350&labelColor=01102d&color=6eb9f2&style=for-the-badge" width="">    
-</a></p >
-
-
- <p align="center">
-<a href="https://github.com/walidbosso">
-
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=walidbosso&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" alt="Walid's github stats"/>
-
-</a>
-
-<br/>
- 
-
-</p >
+</a></p >>
 
 
  <!--More Stats-->
