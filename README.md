@@ -54,7 +54,7 @@
  <a href="https://github.com/walidbosso">
   <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
    </a>
- 【﻿S K I L L S】  
+ ﻿S K I L L S 
 </h3>
 
 <a href="https://github.com/walidbosso">
@@ -92,7 +92,7 @@ Here is the edited version. Only your selected stack. Same style, same image lin
 <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
     </a> <a href="https://github.com/walidbosso">
   <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
-   </a> 【﻿Ｓｔａｔｓ】 
+   </a> S T A T S 
 
 </h3>
  
@@ -103,9 +103,9 @@ Here is the edited version. Only your selected stack. Same style, same image lin
 
 
 <p align="center"> 
-<a href="https://user-badge.committers.top/morocco/walidbosso"> 
-<img align="center" src="https://aktive.kerolloz.dev/bulgaria/fizzexual?label=%F0%9F%92%BB%20Top%20Commiters%20In%20Bulgaria&labelColor=01102d&rnkPrefix=Rank%20&color=6eb9f2&style=for-the-badge" width="" />  
- 
+<a href="https://user-badge.committers.top/bulgaria/fizzexual"> 
+<img align="center" src="https://aktive.kerolloz.dev/bulgaria/fizzexual?label=%F0%9F%92%BB%20Top%20Commiters%20In%20Morroco&labelColor=01102d&rnkPrefix=Rank%20&color=6eb9f2&style=for-the-badge" width="" />  
+
 </a></p >>
 
 
