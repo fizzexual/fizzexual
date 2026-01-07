@@ -1,20 +1,4 @@
-<div align="center">
-  <a href="https://myedvance.com" target="_blank">
-    <img src="https://store.fastly.steamstatic.com/public/shared/images/responsive/steam_share_image.jpg" width="49%" />
-  </a>
-  <a href="https://luaing.com" target="_blank">
-    <img src="https://store.fastly.steamstatic.com/public/shared/images/responsive/steam_share_image.jpg" width="49%" />
-  </a>
-</div>
 
-<div align="center">
-  <a href="https://discord.gg/qsSXYKRXZc" target="_blank">
-    <img src="https://store.fastly.steamstatic.com/public/shared/images/responsive/steam_share_image.jpg" width="49%" />
-  </a>
-  <a href="https://www.roblox.com/games/129639974953249/Untitled-Game" target="_blank">
-    <img src="https://store.fastly.steamstatic.com/public/shared/images/responsive/steam_share_image.jpg" width="49%" />
-  </a>
-</div>
 
 <br>
 
