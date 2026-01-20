@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=fizzexual)
+
 # Hi 👋, I'm Stiliyan Stoyanov
 
 ### Also know as Fizzy
