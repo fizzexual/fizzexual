@@ -4,10 +4,6 @@
 
 ### Also know as Fizzy
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fizzexual&label=Profile views&color=0e75b6&style=flat" alt="fizzexual" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fizzexual" alt="fizzexual" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/fizzexual" target="blank"><img src="https://img.shields.io/twitter/follow/fizzexual?logo=twitter&style=for-the-badge" alt="fizzexual" /></a> </p>
 
 - 🔭 I'm currently working on **Edvance**
