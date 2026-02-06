@@ -45,6 +45,14 @@ const fizzexual = {
 - 💬 Always ready to collaborate
 - ⚡ Fun fact: I turn coffee into code!
 
+<div align="center">
+  
+### 💼 Tech Arsenal
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,nextjs,vue,nodejs,express,django,fastapi,mongodb,postgres,mysql,redis,docker,kubernetes,aws,git&perline=10" />
+
+</div>
+
 
 ## 🛠️ Tech Stack
 
@@ -90,7 +98,7 @@ const fizzexual = {
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=fizzexual&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6e96&icon_color=00d9ff&text_color=c9d1d9&ring_color=ff6e96" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fizzexual&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6e96&icon_color=00d9ff&text_color=c9d1d9" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fizzexual&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6e96&text_color=c9d1d9" alt="Top Languages" height="170"/>
 
 </div>
@@ -103,3 +111,92 @@ const fizzexual = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fizzexual&theme=radical" alt="Contribution Graph" />
 </div>
 
+<div align="center">
+  
+### 📈 More Stats
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fizzexual&theme=radical" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fizzexual&theme=radical" alt="Productive Time" />
+
+</div>
+
+<div align="center">
+  
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fizzexual/fizzexual/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fizzexual/fizzexual/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fizzexual/fizzexual/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+
+## 🏅 Achievement Unlocked
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fizzexual&custom_title=Contribution%20Activity%20Graph&bg_color=0d1117&color=ff6e96&line=00d9ff&point=00d9ff&area_color=00d9ff&area=true&hide_border=true" alt="Contribution Activity Graph" />
+</div>
+
+<div align="center">
+  
+### �️ GitHub Metrics
+
+<img src="https://metrics.lecoq.io/fizzexual?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=America%2FNew_York&config.animated=true" alt="Metrics" width="400">
+
+</div>
+
+<div align="center">
+  
+| 🎯 Metric | 📊 Value |
+|-----------|----------|
+| 💻 Total Commits | ![](https://img.shields.io/badge/dynamic/json?color=00d9ff&label=&query=totalCommits&url=https://github-readme-stats.vercel.app/api?username=fizzexual&show_icons=true&theme=radical) |
+| ⭐ Total Stars | ![](https://img.shields.io/badge/dynamic/json?color=ff6e96&label=&query=totalStars&url=https://github-readme-stats.vercel.app/api?username=fizzexual&show_icons=true&theme=radical) |
+| 🔥 Current Streak | ![GitHub Streak](https://img.shields.io/badge/Streak-Check_Above!-ff6e96?style=flat-square) |
+| 🎮 Level | ![](https://img.shields.io/badge/Level-Legendary_Coder-00d9ff?style=flat-square) |
+| 🏆 Rank | ![](https://img.shields.io/badge/Rank-S++-ff6e96?style=flat-square) |
+
+</div>
+
+## 🤝 Connect With Me
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_SERVER)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+## 💭 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+## 🎵 Vibing To
+
+<div align="center">
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=00d9ff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
+
+</div>
+
+---
+
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+  
+  <img src="https://komarev.com/ghpvc/?username=fizzexual&color=ff6e96&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+  
+  ### ⭐ Show some love by starring repositories!
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+  
+</div>
