@@ -97,17 +97,6 @@ const fizzexual = {
 ## 🎮 Player Stats & Achievements
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=fizzexual&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6e96&icon_color=00d9ff&text_color=c9d1d9" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fizzexual&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6e96&text_color=c9d1d9" alt="Top Languages" height="170"/>
-
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=fizzexual&theme=radical&hide_border=true&background=0d1117&stroke=ff6e96&ring=ff6e96&fire=00d9ff&currStreakLabel=c9d1d9&sideLabels=00d9ff" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fizzexual&theme=radical" alt="Contribution Graph" />
 </div>
 
@@ -122,13 +111,9 @@ const fizzexual = {
 
 <div align="center">
   
-### 🐍 Contribution Snake
+### 🔥 Commit Heatmap
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fizzexual/fizzexual/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fizzexual/fizzexual/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fizzexual/fizzexual/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://ghchart.rshah.org/ff6e96/fizzexual" alt="GitHub Chart" />
 
 </div>
 
@@ -176,14 +161,6 @@ const fizzexual = {
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
-## 🎵 Vibing To
-
-<div align="center">
-  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=00d9ff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
 
 </div>
 
