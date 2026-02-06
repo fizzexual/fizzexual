@@ -74,40 +74,23 @@ const fizzexual = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fizzexual&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fizzexual&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fizzexual&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fizzexual&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fizzexual&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=fizzexual&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fizzexual&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fizzexual&theme=radical" alt="Contribution Graph" />
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fizzexual&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fizzexual&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
-
-## 🎯 Featured Projects
-
-### 🚀 [Project Name](https://github.com/fizzexual/project-name)
-> Brief description of what this project does and why it's awesome.
-
-**Tech Stack:** `React` `Node.js` `MongoDB` `TypeScript`
-
-### 💡 [Another Project](https://github.com/fizzexual/another-project)
-> Brief description of this project and its key features.
-
-**Tech Stack:** `Python` `Django` `PostgreSQL` `Docker`
-
-### 🎮 [Cool Project](https://github.com/fizzexual/cool-project)
-> Brief description highlighting what makes this project special.
-
-**Tech Stack:** `Vue.js` `Express` `Redis` `AWS`
 
 ## 🤝 Connect With Me
 
