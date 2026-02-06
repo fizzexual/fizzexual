@@ -89,22 +89,25 @@ const fizzexual = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fizzexual&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fizzexual&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
 ## 🎯 Featured Projects
 
-<div align="center">
+### 🚀 [Project Name](https://github.com/fizzexual/project-name)
+> Brief description of what this project does and why it's awesome.
 
-<a href="https://github.com/fizzexual/project-name">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fizzexual&repo=project-name&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
+**Tech Stack:** `React` `Node.js` `MongoDB` `TypeScript`
 
-<a href="https://github.com/fizzexual/another-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fizzexual&repo=another-project&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
+### 💡 [Another Project](https://github.com/fizzexual/another-project)
+> Brief description of this project and its key features.
 
-</div>
+**Tech Stack:** `Python` `Django` `PostgreSQL` `Docker`
+
+### 🎮 [Cool Project](https://github.com/fizzexual/cool-project)
+> Brief description highlighting what makes this project special.
+
+**Tech Stack:** `Vue.js` `Express` `Redis` `AWS`
 
 ## 🤝 Connect With Me
 
