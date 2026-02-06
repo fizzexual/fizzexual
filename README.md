@@ -1,35 +1,50 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+fizzexual+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;Let's+build+something+amazing+together!" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=fizzexual&fontSize=42&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Code%20Enthusiast&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F4&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Welcome+to+my+digital+playground!+%F0%9F%8E%AE;Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80;Let's+create+something+legendary!+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
-## � About Me
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```typescript
 const fizzexual = {
-    pronouns: "He" | "Him",
-    code: ["JavaScript", "TypeScript", "Python", "Java", "C++"],
-    askMeAbout: ["web dev", "tech", "app dev", "gaming"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Vue"],
-            css: ["Tailwind", "Bootstrap", "Material-UI"]
-        },
-        backEnd: {
-            js: ["Node", "Express", "Fastify"],
-            python: ["Django", "Flask", "FastAPI"]
-        },
-        databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-        devOps: ["Docker", "Kubernetes", "AWS", "GitHub Actions"],
-        tools: ["Git", "Postman", "VS Code", "Figma"]
+    role: "Full Stack Developer",
+    level: 99,
+    xp: "∞",
+    class: "Code Wizard 🧙‍♂️",
+    
+    skills: {
+        languages: ["JavaScript", "TypeScript", "Python", "Java", "C++"],
+        frontend: ["React", "Next.js", "Vue", "Tailwind"],
+        backend: ["Node.js", "Express", "Django", "FastAPI"],
+        database: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
+        devOps: ["Docker", "Kubernetes", "AWS", "CI/CD"],
     },
-    currentFocus: "Building scalable applications",
-    funFact: "I debug with console.log() and I'm not ashamed!"
+    
+    currentQuest: "Building scalable applications",
+    powerMove: "console.log() debugging",
+    motto: "Code, Coffee, Repeat ☕",
+    
+    isAwesome: () => true
 };
 ```
+
+<br clear="right"/>
+
+### 🎯 Current Quests
+- 🔭 Working on epic projects
+- 🌱 Leveling up my skills daily
+- 💬 Always ready to collaborate
+- ⚡ Fun fact: I turn coffee into code!
+
 
 ## 🛠️ Tech Stack
 
@@ -71,44 +86,20 @@ const fizzexual = {
 
 </div>
 
-## 📊 GitHub Stats
+## 🎮 Player Stats & Achievements
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=fizzexual&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6e96&icon_color=00d9ff&text_color=c9d1d9&ring_color=ff6e96" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fizzexual&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6e96&text_color=c9d1d9" alt="Top Languages" height="170"/>
+
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=fizzexual&theme=radical&hide_border=true&background=0d1117&stroke=ff6e96&ring=ff6e96&fire=00d9ff&currStreakLabel=c9d1d9&sideLabels=00d9ff" alt="GitHub Streak" />
+</div>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fizzexual&theme=radical" alt="Contribution Graph" />
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fizzexual&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-## 🤝 Connect With Me
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_SERVER)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
-
-## 💭 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fizzexual&color=58A6FF&style=for-the-badge&label=Profile+Views" alt="Profile views" />
-  
-  ### Show some ❤️ by starring some of the repositories!
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-</div>
