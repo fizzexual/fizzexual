@@ -74,15 +74,6 @@ const fizzexual = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fizzexual&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fizzexual&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=fizzexual&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fizzexual&theme=radical" alt="Contribution Graph" />
 </div>
 
