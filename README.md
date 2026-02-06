@@ -101,9 +101,6 @@ const fizzexual = {
 </div>
 
 <div align="center">
-  
-### 📈 More Stats
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fizzexual&theme=radical" alt="Stats" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fizzexual&theme=radical" alt="Productive Time" />
 
