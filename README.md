@@ -10,17 +10,25 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate Full Stack Developer who loves crafting elegant solutions to complex problems. With a strong foundation in modern web technologies, I focus on building scalable, maintainable applications that make a difference.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF6E96&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=120&lines=Full+Stack+Developer+passionate+about+elegant+solutions;Building+scalable+applications+with+modern+technologies;Always+learning+%7C+Always+coding+%7C+Always+improving;Open+to+collaboration+and+exciting+projects!" alt="About Me Typing SVG" />
+</div>
 
-- 🔭 Currently working on innovative web applications
-- � Continuously learning and exploring new technologies
-- 💡 Passionate about clean code and best practices
-- 🤝 Open to collaborating on interesting projects
-- ☕ Fueled by coffee and curiosity
+<div align="center">
+  
+| 🔭 Focus | 🌱 Learning | 💡 Passion | 🤝 Collaboration | ☕ Fuel |
+|:---:|:---:|:---:|:---:|:---:|
+| Web Apps | New Tech | Clean Code | Open Source | Coffee |
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
+</div>
 
 ---
 
-## �️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
