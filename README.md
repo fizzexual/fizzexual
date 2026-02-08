@@ -100,14 +100,26 @@
 
 <div align="center">
 
-[![FakeDeafenVencord](https://github-readme-stats.vercel.app/api/pin/?username=fizzexual&repo=FakeDeafenVencord&theme=radical&hide_border=true)](https://github.com/fizzexual/FakeDeafenVencord)
-[![order-execution-system](https://github-readme-stats.vercel.app/api/pin/?username=fizzexual&repo=order-execution-system&theme=radical&hide_border=true)](https://github.com/fizzexual/order-execution-system)
+<a href="https://github.com/fizzexual/FakeDeafenVencord">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fizzexual&repo=FakeDeafenVencord&theme=radical&hide_border=true" alt="FakeDeafenVencord" />
+</a>
+<a href="https://github.com/fizzexual/order-execution-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fizzexual&repo=order-execution-system&theme=radical&hide_border=true" alt="order-execution-system" />
+</a>
 
-[![invisible-app](https://github-readme-stats.vercel.app/api/pin/?username=fizzexual&repo=invisible-app&theme=radical&hide_border=true)](https://github.com/fizzexual/invisible-app)
-[![opencv-face-recognizer](https://github-readme-stats.vercel.app/api/pin/?username=fizzexual&repo=opencv-face-recognizer&theme=radical&hide_border=true)](https://github.com/fizzexual/opencv-face-recognizer)
+<a href="https://github.com/fizzexual/invisible-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fizzexual&repo=invisible-app&theme=radical&hide_border=true" alt="invisible-app" />
+</a>
+<a href="https://github.com/fizzexual/opencv-face-recognizer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fizzexual&repo=opencv-face-recognizer&theme=radical&hide_border=true" alt="opencv-face-recognizer" />
+</a>
 
-[![MyAutoclicker](https://github-readme-stats.vercel.app/api/pin/?username=fizzexual&repo=MyAutoclicker&theme=radical&hide_border=true)](https://github.com/fizzexual/MyAutoclicker)
-[![HumanBenchmarkColorDetection](https://github-readme-stats.vercel.app/api/pin/?username=fizzexual&repo=HumanBenchmarkColorDetection&theme=radical&hide_border=true)](https://github.com/fizzexual/HumanBenchmarkColorDetection)
+<a href="https://github.com/fizzexual/MyAutoclicker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fizzexual&repo=MyAutoclicker&theme=radical&hide_border=true" alt="MyAutoclicker" />
+</a>
+<a href="https://github.com/fizzexual/HumanBenchmarkColorDetection">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fizzexual&repo=HumanBenchmarkColorDetection&theme=radical&hide_border=true" alt="HumanBenchmarkColorDetection" />
+</a>
 
 </div>
 
