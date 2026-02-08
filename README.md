@@ -123,6 +123,51 @@
 </a>
 
 </div>
+<td width="50%" valign="top">
+
+### 👻 [invisible-app](https://github.com/fizzexual/invisible-app)
+Application that becomes invisible during screen shares and recordings. Perfect for protecting sensitive information.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Stars](https://img.shields.io/github/stars/fizzexual/invisible-app?style=flat-square&color=yellow)
+![Forks](https://img.shields.io/github/forks/fizzexual/invisible-app?style=flat-square&color=blue)
+
+</td>
+<td width="50%" valign="top">
+
+### 👤 [opencv-face-recognizer](https://github.com/fizzexual/opencv-face-recognizer)
+Lightweight, CPU-only face recognition system using OpenCV's DNN module. Real-time detection with zero GPU dependencies.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Stars](https://img.shields.io/github/stars/fizzexual/opencv-face-recognizer?style=flat-square&color=yellow)
+![Forks](https://img.shields.io/github/forks/fizzexual/opencv-face-recognizer?style=flat-square&color=blue)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🖱️ [MyAutoclicker](https://github.com/fizzexual/MyAutoclicker)
+Fast Windows autoclicker with GUI, custom hotkeys, multiple speed modes, and settings saving.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Stars](https://img.shields.io/github/stars/fizzexual/MyAutoclicker?style=flat-square&color=yellow)
+![Forks](https://img.shields.io/github/forks/fizzexual/MyAutoclicker?style=flat-square&color=blue)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 [HumanBenchmarkColorDetection](https://github.com/fizzexual/HumanBenchmarkColorDetection)
+Auto-clicks when a specific screen color appears under your mouse.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Stars](https://img.shields.io/github/stars/fizzexual/HumanBenchmarkColorDetection?style=flat-square&color=yellow)
+![Forks](https://img.shields.io/github/forks/fizzexual/HumanBenchmarkColorDetection?style=flat-square&color=blue)
+
+</td>
+</tr>
+</table>
 
 ---
 
