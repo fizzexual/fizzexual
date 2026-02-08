@@ -100,7 +100,7 @@
 
 <div align="center">
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=fizzexual&repo=REPO_NAME_1&theme=radical&hide_border=true)](https://github.com/fizzexual/REPO_NAME_1)
+[![FakeDeafenVencord](https://github-readme-stats.vercel.app/api/pin/?username=fizzexual&repo=FakeDeafenVencord&theme=radical&hide_border=true)](https://github.com/fizzexual/REPO_NAME_1)
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=fizzexual&repo=REPO_NAME_2&theme=radical&hide_border=true)](https://github.com/fizzexual/REPO_NAME_2)
 
 [![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=fizzexual&repo=REPO_NAME_3&theme=radical&hide_border=true)](https://github.com/fizzexual/REPO_NAME_3)
