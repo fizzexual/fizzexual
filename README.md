@@ -98,76 +98,31 @@
 
 ## 🚀 Featured Repositories
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 🎮 [FakeDeafenVencord](https://github.com/fizzexual/FakeDeafenVencord)
-Fake deafen on Discord. Listen to others while they think you are deafened!
+### ⭐ Pinned Projects
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Stars](https://img.shields.io/github/stars/fizzexual/FakeDeafenVencord?style=flat-square&color=yellow)
-![Forks](https://img.shields.io/github/forks/fizzexual/FakeDeafenVencord?style=flat-square&color=blue)
+<a href="https://github.com/fizzexual/FakeDeafenVencord">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fizzexual&repo=FakeDeafenVencord&theme=radical&hide_border=true&border_radius=10" />
+</a>
+<a href="https://github.com/fizzexual/order-execution-system">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fizzexual&repo=order-execution-system&theme=radical&hide_border=true&border_radius=10" />
+</a>
 
-</td>
-<td width="50%" valign="top">
+<a href="https://github.com/fizzexual/invisible-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fizzexual&repo=invisible-app&theme=radical&hide_border=true&border_radius=10" />
+</a>
+<a href="https://github.com/fizzexual/opencv-face-recognizer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fizzexual&repo=opencv-face-recognizer&theme=radical&hide_border=true&border_radius=10" />
+</a>
 
-### 📦 [order-execution-system](https://github.com/fizzexual/order-execution-system)
-Production-quality order execution and risk management system with Spring Boot, REST API, and Docker support.
+### 📚 All Repositories
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Stars](https://img.shields.io/github/stars/fizzexual/order-execution-system?style=flat-square&color=yellow)
-![Forks](https://img.shields.io/github/forks/fizzexual/order-execution-system?style=flat-square&color=blue)
+<a href="https://github.com/fizzexual?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api?username=fizzexual&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true&custom_title=Repository%20Stats" alt="Repository Stats" />
+</a>
 
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 👻 [invisible-app](https://github.com/fizzexual/invisible-app)
-Application that becomes invisible during screen shares and recordings. Perfect for protecting sensitive information.
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Stars](https://img.shields.io/github/stars/fizzexual/invisible-app?style=flat-square&color=yellow)
-![Forks](https://img.shields.io/github/forks/fizzexual/invisible-app?style=flat-square&color=blue)
-
-</td>
-<td width="50%" valign="top">
-
-### 👤 [opencv-face-recognizer](https://github.com/fizzexual/opencv-face-recognizer)
-Lightweight, CPU-only face recognition system using OpenCV's DNN module. Real-time detection with zero GPU dependencies.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Stars](https://img.shields.io/github/stars/fizzexual/opencv-face-recognizer?style=flat-square&color=yellow)
-![Forks](https://img.shields.io/github/forks/fizzexual/opencv-face-recognizer?style=flat-square&color=blue)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🖱️ [MyAutoclicker](https://github.com/fizzexual/MyAutoclicker)
-Fast Windows autoclicker with GUI, custom hotkeys, multiple speed modes, and settings saving.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Stars](https://img.shields.io/github/stars/fizzexual/MyAutoclicker?style=flat-square&color=yellow)
-![Forks](https://img.shields.io/github/forks/fizzexual/MyAutoclicker?style=flat-square&color=blue)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 [HumanBenchmarkColorDetection](https://github.com/fizzexual/HumanBenchmarkColorDetection)
-Auto-clicks when a specific screen color appears under your mouse.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Stars](https://img.shields.io/github/stars/fizzexual/HumanBenchmarkColorDetection?style=flat-square&color=yellow)
-![Forks](https://img.shields.io/github/forks/fizzexual/HumanBenchmarkColorDetection?style=flat-square&color=blue)
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
