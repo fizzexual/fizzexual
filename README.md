@@ -101,10 +101,13 @@
 <div align="center">
 
 [![FakeDeafenVencord](https://github-readme-stats.vercel.app/api/pin/?username=fizzexual&repo=FakeDeafenVencord&theme=radical&hide_border=true)](https://github.com/fizzexual/FakeDeafenVencord)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=fizzexual&repo=REPO_NAME_2&theme=radical&hide_border=true)](https://github.com/fizzexual/REPO_NAME_2)
+[![order-execution-system](https://github-readme-stats.vercel.app/api/pin/?username=fizzexual&repo=order-execution-system&theme=radical&hide_border=true)](https://github.com/fizzexual/order-execution-system)
 
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=fizzexual&repo=REPO_NAME_3&theme=radical&hide_border=true)](https://github.com/fizzexual/REPO_NAME_3)
-[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=fizzexual&repo=REPO_NAME_4&theme=radical&hide_border=true)](https://github.com/fizzexual/REPO_NAME_4)
+[![invisible-app](https://github-readme-stats.vercel.app/api/pin/?username=fizzexual&repo=invisible-app&theme=radical&hide_border=true)](https://github.com/fizzexual/invisible-app)
+[![opencv-face-recognizer](https://github-readme-stats.vercel.app/api/pin/?username=fizzexual&repo=opencv-face-recognizer&theme=radical&hide_border=true)](https://github.com/fizzexual/opencv-face-recognizer)
+
+[![MyAutoclicker](https://github-readme-stats.vercel.app/api/pin/?username=fizzexual&repo=MyAutoclicker&theme=radical&hide_border=true)](https://github.com/fizzexual/MyAutoclicker)
+[![HumanBenchmarkColorDetection](https://github-readme-stats.vercel.app/api/pin/?username=fizzexual&repo=HumanBenchmarkColorDetection&theme=radical&hide_border=true)](https://github.com/fizzexual/HumanBenchmarkColorDetection)
 
 </div>
 
