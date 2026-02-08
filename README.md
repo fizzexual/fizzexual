@@ -98,31 +98,31 @@
 
 ## 🚀 Featured Repositories
 
-<div align="center">
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-### ⭐ Pinned Projects
+### 🎮 [FakeDeafenVencord](https://github.com/fizzexual/FakeDeafenVencord)
+Fake deafen on Discord. Listen to others while they think you are deafened!
 
-<a href="https://github.com/fizzexual/FakeDeafenVencord">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fizzexual&repo=FakeDeafenVencord&theme=radical&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/fizzexual/order-execution-system">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fizzexual&repo=order-execution-system&theme=radical&hide_border=true&border_radius=10" />
-</a>
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Stars](https://img.shields.io/github/stars/fizzexual/FakeDeafenVencord?style=flat-square&color=yellow)
+![Forks](https://img.shields.io/github/forks/fizzexual/FakeDeafenVencord?style=flat-square&color=blue)
 
-<a href="https://github.com/fizzexual/invisible-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fizzexual&repo=invisible-app&theme=radical&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/fizzexual/opencv-face-recognizer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fizzexual&repo=opencv-face-recognizer&theme=radical&hide_border=true&border_radius=10" />
-</a>
+</td>
+<td width="50%" valign="top">
 
-### 📚 All Repositories
+### 📦 [order-execution-system](https://github.com/fizzexual/order-execution-system)
+Production-quality order execution and risk management system with Spring Boot, REST API, and Docker support.
 
-<a href="https://github.com/fizzexual?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api?username=fizzexual&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true&custom_title=Repository%20Stats" alt="Repository Stats" />
-</a>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Stars](https://img.shields.io/github/stars/fizzexual/order-execution-system?style=flat-square&color=yellow)
+![Forks](https://img.shields.io/github/forks/fizzexual/order-execution-system?style=flat-square&color=blue)
 
-</div>
+</td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### 👻 [invisible-app](https://github.com/fizzexual/invisible-app)
