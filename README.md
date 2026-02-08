@@ -78,7 +78,7 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fizzexual&theme=radical" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fizzexual&theme=radical" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fizzexual&theme=radical&utcOffset=2" alt="Productive Time" />
 </div>
 
 <div align="center">
