@@ -14,7 +14,7 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=fizzexual)
+![Profile Views](https://komarev.com/ghpvc/?username=fizzexual)
 
 </div>
 
