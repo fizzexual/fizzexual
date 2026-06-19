@@ -13,8 +13,11 @@
 ####
 
 <div align="center">
-  ![](https://komarev.com/ghpvc/?username=fizzexual)
+
+![](https://komarev.com/ghpvc/?username=fizzexual)
+
 </div>
+
 <br clear="both">
 
 <div align="center">
