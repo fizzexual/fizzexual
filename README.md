@@ -12,6 +12,7 @@
 
 ####
 
+![](https://komarev.com/ghpvc/?username=fizzexual)
 <br clear="both">
 
 <div align="center">
