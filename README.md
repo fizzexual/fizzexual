@@ -1,8 +1,6 @@
 <div>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=fizzexual)](https://git.io/streak-stats)
-
 ###
 
 <br clear="both">
