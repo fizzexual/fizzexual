@@ -1,6 +1,15 @@
 <div>
 </div>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=fizzexual&theme=dark&hide_border=true" />
+      <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=fizzexual&theme=default&hide_border=true" />
+    </picture>
+  </a>
+</p>
+
 ###
 
 <br clear="both">
