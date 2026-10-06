@@ -1,78 +1,65 @@
-<div>
-</div>
-
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=fizzexual&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="1000" alt="streak graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-</div>
-
-####
-
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=fizzexual)
+<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=190&color=0:0d1117,100:1f6feb&text=Stiliyan%20Stoyanov&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20%26%20desktop%20developer%20%C2%B7%20TypeScript%20%C2%B7%20Python%20%C2%B7%20Rust&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Stiliyan Stoyanov — full-stack and desktop developer" />
+
+<a href="https://www.linkedin.com/in/stiliyan-stoyanov-48712a344/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:fizzexual@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.youtube.com/@fizzexual"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="https://discord.gg/4JK5VWxSWq"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 
 </div>
 
-<br clear="both">
+## About me
+
+I'm a full-stack and desktop developer from Dobrich, Bulgaria, working at **Catwing AI**. I build web apps with
+TypeScript and React, backends in Python and Node.js, local-first desktop apps with Rust and Tauri, and plugins for
+Minecraft servers in Java. I care about shipping software that holds up in production: tests, security and clear docs.
+
+- **Now:** product engineering at Catwing AI — Python/Django services, React + TypeScript frontends, AWS.
+- **Side project:** [Sprout](https://github.com/fizzexual/Sprout), a beginner-friendly programming language written from scratch in C.
+- **Open to:** freelance work and interesting full-time roles.
+- **Contact:** [fizzexual@gmail.com](mailto:fizzexual@gmail.com)
+
+## Tech stack
+
+| | |
+| --- | --- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=ts,py,java,js,cs,rust,kotlin" alt="TypeScript, Python, Java, JavaScript, C#, Rust, Kotlin" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" alt="React, Next.js, Vite, Tailwind CSS" /> |
+| **Backend & data** | <img src="https://skillicons.dev/icons?i=nodejs,express,django,postgres,mysql,sqlite,redis,prisma" alt="Node.js, Express, Django, PostgreSQL, MySQL, SQLite, Redis, Prisma" /> |
+| **Desktop, mobile & games** | <img src="https://skillicons.dev/icons?i=tauri,electron,androidstudio,unity" alt="Tauri, Electron, Android, Unity" /> |
+| **Cloud & tooling** | <img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions,cloudflare,maven" alt="AWS, Docker, nginx, GitHub Actions, Cloudflare, Maven" /> |
+
+## Featured projects
+
+| Project | What it is | Built with |
+| --- | --- | --- |
+| [**MamaSQL**](https://github.com/fizzexual/MamaSQL) · [live](https://mamasql.stiliyanstoyanov.com) | Local-first SQL workbench for PostgreSQL, MySQL/MariaDB and SQLite — schema browser, editor, inline editing and charts. | Tauri, Rust, React, TypeScript |
+| [**Sprout**](https://github.com/fizzexual/Sprout) · [playground](https://fizzexual.github.io/Sprout/) | A beginner-friendly programming language with plain-English keywords and helpful errors, running in the browser via WebAssembly. | C, WebAssembly |
+| [**Stackfile**](https://github.com/fizzexual/Stackfile) | Self-hosted cloud drive: upload, share, WebDAV mount, 2FA and quotas in one Docker service. | Next.js, PostgreSQL, Docker |
+| [**BaseworkSaaS**](https://github.com/fizzexual/BaseworkSaaS) | Multi-tenant SaaS starter with organizations, RBAC, Stripe billing, usage metering and audit logs. | Next.js, TypeScript, Stripe |
+| [**Licensione**](https://github.com/fizzexual/Licensione) | License-key server with Ed25519-signed verdicts for selling plugins, apps and software. | Cloudflare Workers, D1 |
+| [**frameatlas**](https://github.com/fizzexual/frameatlas) | CLI and MCP server that extracts every video frame with timestamps so AI agents can review video. | Python, MCP |
+| [**HereOnly**](https://github.com/fizzexual/HereOnly) | Zero-dependency middleware that limits a self-hosted service to devices on the same local network. | Node.js |
+| [**Codemonkey**](https://github.com/fizzexual/Codemonkey) · [live](https://fizzexual.github.io/Codemonkey/) | Typing-speed test for developers using real code in 9 languages. | JavaScript |
+| [**Guardio**](https://github.com/fizzexual/Guardio) | Integrity guard and anti-malware plugin for Minecraft servers that detects and restores tampered jars. | Java, Paper |
+| [**noCrates**](https://github.com/fizzexual/noCrates) | Open-source crates plugin for Paper, Purpur and Folia with animations and an addon API. | Java, Paper |
+
+More in my [repositories](https://github.com/fizzexual?tab=repositories).
+
+## GitHub stats
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/stiliyan-stoyanov-48712a344/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@fizzexual" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://discord.gg/4JK5VWxSWq" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="https://www.facebook.com/bitter.coiner.9/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/fizzexuality/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="mailto:fizzexual@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="paypal.me/fizzexuality" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="paypal logo"  />
-  </a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=fizzexual&show_icons=true&hide_border=true&theme=github_dark" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fizzexual&show_icons=true&hide_border=true" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=fizzexual&hide_border=true&theme=github-dark-blue" />
+  <img height="165" src="https://streak-stats.demolab.com?user=fizzexual&hide_border=true" alt="GitHub streak" />
+</picture>
+
 </div>
 
-###
-
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="40" alt="css logo"  />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo"  />
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonwebservices&logoColor=FF9900&style=for-the-badge" height="40" alt="amazonwebservices logo"  />
-  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="40" alt="csharp logo"  />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"  />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=for-the-badge" height="40" alt="lua logo"  />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
-  <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge" height="40" alt="oracle logo"  />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?logo=androidstudio&logoColor=black&style=for-the-badge" height="40" alt="androidstudio logo"  />
-  <img src="https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white&style=for-the-badge" height="40" alt="gradle logo"  />
-  <img src="https://img.shields.io/badge/Apache Maven-C71A36?logo=apachemaven&logoColor=white&style=for-the-badge" height="40" alt="apachemaven logo"  />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="40" alt="kotlin logo"  />
-  <img src="https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white&style=for-the-badge" height="40" alt="opengl logo"  />
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&reversal=true&fontSize=70&fontColor=000000&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=0d1117"  />
-</div>
-
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:1f6feb,100:0d1117" width="100%" alt="" />
