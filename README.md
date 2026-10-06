@@ -18,7 +18,7 @@ Minecraft servers in Java. I care about shipping software that holds up in produ
 - **Now:** product engineering at Catwing AI — Python/Django services, React + TypeScript frontends, AWS.
 - **Side project:** [Sprout](https://github.com/fizzexual/Sprout), a beginner-friendly programming language written from scratch in C.
 - **Open to:** freelance work and interesting full-time roles.
-- **Contact:** [fizzexual@gmail.com](mailto:fizzexual@gmail.com)
+- **Contact:** [stiliyan@stiliyanstoyanov.com](mailto:stiliyan@stiliyanstoyanov.com)
 
 ## Tech stack
 
