@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=190&color=0:0d1117,100:1f6feb&text=Stiliyan%20Stoyanov&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20and%20desktop%20developer%20%C2%B7%20TypeScript%20%C2%B7%20Python%20%C2%B7%20Rust&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Stiliyan Stoyanov - full-stack and desktop developer" />
 
 <a href="https://www.linkedin.com/in/stiliyan-stoyanov-48712a344/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:fizzexual@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:stiliyan@stiliyanstoyanov.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.youtube.com/@fizzexual"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 <a href="https://discord.gg/4JK5VWxSWq"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 
