@@ -30,20 +30,6 @@ Minecraft servers in Java. I care about shipping software that holds up in produ
 | **Desktop, mobile & games** | <img src="https://skillicons.dev/icons?i=tauri,electron,androidstudio,unity" alt="Tauri, Electron, Android, Unity" /> |
 | **Cloud & tooling** | <img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions,cloudflare,maven" alt="AWS, Docker, nginx, GitHub Actions, Cloudflare, Maven" /> |
 
-## Featured projects
-
-| Project | What it is | Built with |
-| --- | --- | --- |
-| [**MamaSQL**](https://github.com/fizzexual/MamaSQL) · [live](https://mamasql.stiliyanstoyanov.com) · [download](https://github.com/fizzexual/MamaSQL/releases/latest) | Local-first SQL workbench for PostgreSQL, MySQL/MariaDB and SQLite — schema browser, editor, inline editing and charts. | Tauri, Rust, React, TypeScript |
-| [**Sprout**](https://github.com/fizzexual/Sprout) · [playground](https://fizzexual.github.io/Sprout/) · [download](https://github.com/fizzexual/Sprout/releases/latest) | A beginner-friendly programming language with plain-English keywords and helpful errors, running in the browser via WebAssembly. | C, WebAssembly |
-| [**noCrates**](https://github.com/fizzexual/noCrates) · [download](https://github.com/fizzexual/noCrates/releases/latest) | Free crates plugin for Paper, Purpur and Folia servers with animated openings, linked keys, rerolls and an addon API. | Java, Paper |
-| [**frameatlas**](https://github.com/fizzexual/frameatlas) · [download](https://github.com/fizzexual/frameatlas/releases/latest) | CLI and MCP server that extracts every video frame with timestamps so AI agents can review video. | Python, MCP |
-| [**Prism**](https://github.com/fizzexual/Prism) · [live](https://fizzexual.github.io/Prism/) | Visual website builder: drag UI elements and 3D models onto a canvas, preview responsively and export a standalone site. | JavaScript, Three.js, PostgreSQL |
-| [**VeloTravel**](https://github.com/fizzexual/VeloTravel) · [download](https://github.com/fizzexual/VeloTravel/releases/latest) | Android app that turns cycling kilometres into a virtual trip along 50+ routes in Bulgaria, with achievements. | Kotlin, Jetpack Compose |
-| [**Codemonkey**](https://github.com/fizzexual/Codemonkey) · [live](https://fizzexual.github.io/Codemonkey/) | Typing-speed test for developers using real code in 9 languages. | JavaScript |
-
-More in my [repositories](https://github.com/fizzexual?tab=repositories).
-
 ## GitHub stats
 
 <div align="center">
