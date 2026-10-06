@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=190&color=0:0d1117,100:1f6feb&text=Stiliyan%20Stoyanov&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20and%20desktop%20developer%20%C2%B7%20TypeScript%20%C2%B7%20Python%20%C2%B7%20Rust&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Stiliyan Stoyanov — full-stack and desktop developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=190&color=0:0d1117,100:1f6feb&text=Stiliyan%20Stoyanov&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20and%20desktop%20developer%20%C2%B7%20TypeScript%20%C2%B7%20Python%20%C2%B7%20Rust&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Stiliyan Stoyanov - full-stack and desktop developer" />
 
 <a href="https://www.linkedin.com/in/stiliyan-stoyanov-48712a344/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:fizzexual@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -15,7 +15,7 @@ I'm a full-stack and desktop developer from Dobrich, Bulgaria, working at **Catw
 TypeScript and React, backends in Python and Node.js, local-first desktop apps with Rust and Tauri, and plugins for
 Minecraft servers in Java. I care about shipping software that holds up in production: tests, security and clear docs.
 
-- **Now:** product engineering at Catwing AI — Python/Django services, React + TypeScript frontends, AWS.
+- **Now:** product engineering at Catwing AI - Python/Django services, React + TypeScript frontends, AWS.
 - **Side project:** [Sprout](https://github.com/fizzexual/Sprout), a beginner-friendly programming language written from scratch in C.
 - **Open to:** freelance work and interesting full-time roles.
 - **Contact:** [stiliyan@stiliyanstoyanov.com](mailto:stiliyan@stiliyanstoyanov.com)
