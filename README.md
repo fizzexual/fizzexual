@@ -2,6 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=190&color=0:0d1117,100:1f6feb&text=Stiliyan%20Stoyanov&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20and%20desktop%20developer%20%C2%B7%20TypeScript%20%C2%B7%20Python%20%C2%B7%20Rust&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Stiliyan Stoyanov - full-stack and desktop developer" />
 
+<a href="https://stiliyanstoyanov.com"><img src="https://img.shields.io/badge/Portfolio-2F7D4F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/stiliyan-stoyanov-48712a344/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:stiliyan@stiliyanstoyanov.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.youtube.com/@fizzexual"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
@@ -11,7 +12,7 @@
 
 ## About me
 
-I'm a full-stack and desktop developer from Dobrich, Bulgaria, working at **Catwing AI**. I build web apps with
+I'm a full-stack and desktop developer based in Sofia, Bulgaria, working at **Catwing AI**. I build web apps with
 TypeScript and React, backends in Python and Node.js, local-first desktop apps with Rust and Tauri, and plugins for
 Minecraft servers in Java. I care about shipping software that holds up in production: tests, security and clear docs.
 
