@@ -11,7 +11,7 @@
 
 ## About me
 
-I'm a forward-deployed engineer at **Catwing AI**, based in Sofia, Bulgaria. I build web apps with TypeScript and
+I'm a forward-deployed engineer at **Catwing AI**, based in Varna, Bulgaria. I build web apps with TypeScript and
 React, backends in Python/Django and Node.js, and local-first desktop apps with Rust and Tauri. I care about shipping
 software that holds up in production: tests, security and clear docs.
 
